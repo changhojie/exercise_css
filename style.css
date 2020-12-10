@@ -1,0 +1,41 @@
+body{
+	background-color:navajowhite;
+}
+#pah1{
+	text-align:right;
+	color:black;
+	font-size:15px;
+	font-weight:lighter;
+}
+em{
+	text-align:center;
+	color:black;
+	font-weight:bold;
+	font-size:40px;
+}
+div{
+	color:black;
+	font-size:25px;
+}
+.extra{
+	background-color:yellow;
+	color:black;
+	font-weight:lighter;
+	font-size:25px;
+	}
+p{	
+	font-weight:bolder;
+	font-size:20px;
+	border:10% solid black;
+	background-color:orange;
+	margin-top:5%;
+	margin-bottom:5%;
+	margin-left:auto;
+	margin-right:auto;
+}
+span{
+	color:green;
+	font-weight:bold;
+	text-decoration:underline;
+}
+

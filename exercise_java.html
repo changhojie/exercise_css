@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>java</title>
+	<style>
+		body{
+			font-weight:bolder;
+			font-size:30px;
+		}
+	</style>
+</head>
+<body>
+	<script>
+		var input=window.prompt("Please guess a number!")
+		var rand=Math.floor((Math.random()*10)+1)
+		while(input/=rand){
+			var input=window.prompt("guess again!")
+		}
+		input=alert("correct!")
+
+	</script>
+
+</body>
+</html>
